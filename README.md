@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![udemy](https://img.shields.io/badge/Udemy-Modern--React--with--Redux-EC5252?logo=udemy&style=flat-square)](https://www.udemy.com/course/react-redux/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
